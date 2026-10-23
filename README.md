@@ -76,7 +76,7 @@ services:
 保存文件后，在同一目录下打开终端，依次执行以下两条命令：
 ```bash
 docker compose pull
-docker compose up -d
+docker compose up -d  
 ```
 
 ---
